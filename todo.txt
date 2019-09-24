@@ -1,0 +1,7 @@
+Add favicon.ico to public/index.html
+Add function to make background change randomly on page load in App.css
+Change colors eg. button - green, no box shadow etc, center align divs.
+Remember, Section division as follows:
+    - SearchBar 
+    - Playlists
+    - TopArtists | TopTracks
